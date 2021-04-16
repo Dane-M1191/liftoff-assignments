@@ -7,12 +7,30 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+A lab management app that allows you to log and track your animal colony and share among labs.
 ### Features
-Include Features here
+-Login and Sign Up
+-Authentication
+-Individual user permissions(?)
+-Add, Edit, and Delete data
+-Sort and Search
+  -by lab
+  -by colony
+  -by species
+  -by keyword
+-Linking users by shared lab
 ### Technologies
-Include Technologies here
+Java
+Spring
+HTML5
+CSS
+Bootstrap
+MySQL
+Hibernate
 ### What I'll Have to Learn
-Include what you will need to learn here
+In order to complete the MVP, I will have to learn how to:
+-turn wireframes and user stories into code
+-authenticate users and redirect them to the landing page
+-implement a user permission system that allows admin-level users to manage other users and prevent certain permission levels from accessing sensitive data.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/7ps8KJcG/lab-rador
