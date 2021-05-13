@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-https://github.com/booma1191
+https://github.com/Dane-M1191
  
 ### LinkedIn
-https://www.linkedin.com/in/dane-miller-028415206/
+https://www.linkedin.com/in/dane-miller1191
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
